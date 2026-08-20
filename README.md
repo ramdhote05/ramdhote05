@@ -107,7 +107,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" />
-</div>
+
